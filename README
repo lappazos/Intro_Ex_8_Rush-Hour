@@ -1,0 +1,23 @@
+lioraryepaz 206240996 Lior Paz
+
+=============================
+=  README for ex8: Rush Hour  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+In the exercise we created a semi-version of Rush Hour wonderful game.
+Take a chance and play it yourself!! You wont regret :)
+this is an OOP Exercise.
+main file game.py, 2 helpers files - car & board. each with different classes.
+please pay attention to missing functions, not required but could greatly
+improve the game experience - graphics & randomizing Cars location on board
+(insted of adding them yourself).
+
+======================
+=  Special Comments  =
+======================
+Im deeply sorry for the delay - personal isuues, was authuriezed with Staff.
+learned a great deal from that Ex.
